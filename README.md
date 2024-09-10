@@ -33,7 +33,7 @@ This PowerShell script automates a series of configurations on a Windows machine
    - Open PowerShell as Administrator.
    - Run the following command:
      ```powershell
-     .\script.ps1
+     .\SetupServer.ps1
      ```
 
 3. **Verify the changes**:
